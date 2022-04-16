@@ -1,4 +1,7 @@
 #exercício88
+from random import randint
+from time import sleep
+
 print('='*45)
 print('{:-^45}'.format('< JOGOS DA MEGA SENA >'))
 print('='*45)
